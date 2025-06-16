@@ -17,3 +17,5 @@ Liu, C.; Szirányi, T. Real-time human detection and gesture recognition for on-
 
 ### Datasets and models: 
 please contact changliu@hit.bme.hu
+
+Note: Our body gesture dataset is limited. If you would like to apply this work to your specific human-drone interaction scenario, you are encouraged to create your own dataset, and optionally combine it with publicly available datasets.
